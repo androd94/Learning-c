@@ -1,5 +1,5 @@
 int main(void)
-
+//im aware that none of this works, perhaps one day
 {
 
 	ProcessStartInfo procInfo = new ProcessStartInfo();
